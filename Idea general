@@ -1,0 +1,34 @@
+*** IDEA GENERAL ***
+
+  Desarrollar una herramienta interactiva que represente la vida de un individuo de sexo masculino, personalizable y 
+que pueda actuar en tantos escenarios como lo haría una persona en la vida real.
+
+  Se pretende crear una aplicación web, donde al comienzo se personalice la persona y posteriormente se logre interactuar 
+con demás individuos (artificiales).
+
+  La persona creada tendrá los siguientes objetivos opcionales: 
+    *Descubrir todos los mapas del juego (4 ciudades, una serie de pueblos pequeños y campo).
+    *Sobrevivir por un tiempo indefinido.
+    *Realizar las diferentes actividades que se le propongan
+
+  El juego no tendrá final, será de tiempo infefinido; el jugador no cumplirá edad con el paso del tiempo. El juego solo
+termina cuando el jugador muere o cae a la carcel (si no posee dinero para pagar fianza). A menos que posea una partida
+guardada podrá volver a un punto de retorno.
+
+  Las habilidades del jugador se verán alteradas de manera cuantitativa, mediante variables como por ejemplo: Salud, Hambre,
+Peso, Carisma, Higiene, entre otras. Además el jugador podrá adquirir "Skills" a medida que ejerce tareas extraprogramáticas 
+como "Chef internacional", "Constructor civil", etc.
+
+  Gran parte del juego se basa en el progreso del jugador: Monetaria, física, psicológica y socialmente. Este podrá 
+entablar relaciones amorosas y sociales con otros individuos, entablar conversaciones de todo tipo, amistades, relaciones 
+laborales, noviazgos, relaciones esporadicas, adulterio, uso de prostitución, entre otras.
+
+  El uso del dinero es un factor importante dentro del juego, ya que con él se podrán adquirir la gran mayoría de las cosas
+tangibles e intangibles que existan en el mundo virtual. Para ello existirán bancos, bolsas de comercio, créditos, etc.
+
+  El personaje creado estará expuesto al libre albedrío, podrá hacer lo que se le plazca al jugador, mientras tenga las
+capacidades físicas y ciertos estatus sociales. Para esto existirán las "Acciones" que le permitirán desde: entablar una
+conversación con un desconocido, hasta asaltar un banco.
+
+  El personaje creado deberá alimentarse (y sanamente) para sobrellevar una vida cargada de acción. Además estará expuesto
+a enfermedades que pueden ser tratadas (gripe, fracturas, etc) o letales (cancer, sida, etc).
