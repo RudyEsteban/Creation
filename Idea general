@@ -11,24 +11,34 @@ con demás individuos (artificiales).
     *Sobrevivir por un tiempo indefinido.
     *Realizar las diferentes actividades que se le propongan
 
-  El juego no tendrá final, será de tiempo infefinido; el jugador no cumplirá edad con el paso del tiempo. El juego solo
-termina cuando el jugador muere o cae a la carcel (si no posee dinero para pagar fianza). A menos que posea una partida
+  El juego no tendrá final, será de tiempo infefinido; el personaje no cumplirá edad con el paso del tiempo. El juego solo
+termina cuando el personaje muere o cae a la carcel (si no posee dinero para pagar fianza). A menos que posea una partida
 guardada podrá volver a un punto de retorno.
-
-  Las habilidades del jugador se verán alteradas de manera cuantitativa, mediante variables como por ejemplo: Salud, Hambre,
-Peso, Carisma, Higiene, entre otras. Además el jugador podrá adquirir "Skills" a medida que ejerce tareas extraprogramáticas 
-como "Chef internacional", "Constructor civil", etc.
-
-  Gran parte del juego se basa en el progreso del jugador: Monetaria, física, psicológica y socialmente. Este podrá 
-entablar relaciones amorosas y sociales con otros individuos, entablar conversaciones de todo tipo, amistades, relaciones 
-laborales, noviazgos, relaciones esporadicas, adulterio, uso de prostitución, entre otras.
-
-  El uso del dinero es un factor importante dentro del juego, ya que con él se podrán adquirir la gran mayoría de las cosas
-tangibles e intangibles que existan en el mundo virtual. Para ello existirán bancos, bolsas de comercio, créditos, etc.
 
   El personaje creado estará expuesto al libre albedrío, podrá hacer lo que se le plazca al jugador, mientras tenga las
 capacidades físicas y ciertos estatus sociales. Para esto existirán las "Acciones" que le permitirán desde: entablar una
 conversación con un desconocido, hasta asaltar un banco.
 
+  Para desbloquear partes del mapa el personaje deberá adquirir una propiedad (comprada) en determinado barrio. Por cada
+ciudad, existen una serie de barrios y al final un camino que conducirá hacia la proxima ciudad. La última ciudad es la
+capital y por lo tanto la que más barrios, población y acciones para desarrollar posee. 
+
   El personaje creado deberá alimentarse (y sanamente) para sobrellevar una vida cargada de acción. Además estará expuesto
 a enfermedades que pueden ser tratadas (gripe, fracturas, etc) o letales (cancer, sida, etc).
+
+  Las habilidades del personaje se verán alteradas de manera cuantitativa, mediante variables como por ejemplo: Salud, Hambre,
+Peso, Carisma, Higiene, entre otras. Además el jugador podrá adquirir "Skills" a medida que ejerce tareas extraprogramáticas 
+como "Chef internacional", "Constructor civil", etc.
+
+  Gran parte del juego se basa en el progreso del personaje: Monetaria, física, psicológica y socialmente. Este podrá 
+entablar relaciones amorosas y sociales con otros individuos, entablar conversaciones de todo tipo, amistades, relaciones 
+laborales, noviazgos, relaciones esporadicas, adulterio, uso de prostitución, tener hijos, entre otras.
+
+  El uso del dinero es un factor importante dentro del juego, ya que con él se podrán adquirir la gran mayoría de las cosas
+tangibles e intangibles que existan en el mundo virtual. Para ello existirán bancos, bolsas de comercio, créditos, etc.
+
+  Dada la alta violencia y explicitud de las diversar acciones, se pretende que no sea un juego recomendable para cualquiera.
+Existirán escenas de: Lenguaje explicito, asesinatos, accidentes, sexo explícito y violencia física.
+
+ 
+
