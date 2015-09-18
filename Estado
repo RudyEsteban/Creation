@@ -6,20 +6,39 @@ distintos tipos de estados:
     *Estado general
     *Estado físico
     *Estado social y personal
+    *Estado hábil
+    
     
 *** Estado general ***
 
-  Formado por variables y constantes de tipos String, Integer.
-
-    *** NOMBRE ***            *** TIPO DE DATO ***              *** CONSTANCIA ***            *** VALIDACIÓN ***
-    *Nombre
-    *Edad
-    *Salud
-    *Hambre
-    *Vejiga
-    *Higiene
-    *
+  Formado por variables y constantes de tipos String e Integer.
+Se divide en Nombre y edad como datos personales y el resto como variables de estado.
+  
+    *** NOMBRE ***            *** TIPO DE DATO ***              *** DURABILIDAD ***            *** VALIDACIÓN ***
+    *Nombre                   String                            Constante                      MAX12; NoSymbols
+    *Edad                     Integer                           Constante                      >=18 && <=30
+    ______________________________________________________________________________________________________________
+    *Salud                    Integer                           Variable
+    *Energía                  Integer                           Variable
+    *Hambre                   Integer                           Variable
+    *Vejiga                   Integer                           Variable
+    *Higiene                  Integer                           Variable
     
+    
+*** Estado físico ***
+
+  Formado por variables y constantes de tipos String, Double e Integer.
+Se divide en números indicadores de la vista exterior del personaje y las habilidades físicas.
+
+    *** NOMBRE ***            *** TIPO DE DATO ***              *** DURABILIDAD ***            *** VALIDACIÓN ***
+    *Color piel               String                            Constante                     
+    *Color cabello            String                            Variable
+    *Color ojos               String                            Constante
+    *Peso                     Double                            Variable                 
+    *Estatura                 Double                            Constante
+    *IMC                      Double                            Variable
+    ______________________________________________________________________________________________________________
+  
 
 
 
