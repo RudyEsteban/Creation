@@ -1,0 +1,27 @@
+*** ESTADO DEL PERSONAJE (VARIABLES Y CONSTANTES) ***
+
+  Las variables y constantes darán a conocer el estado del personaje y le permitirán desenvolverse a lo largo del juego. Existen
+distintos tipos de estados:
+
+    *Estado general
+    *Estado físico
+    *Estado social y personal
+    
+*** Estado general ***
+
+  Formado por variables y constantes de tipos String, Integer.
+
+    *** NOMBRE ***            *** TIPO DE DATO ***              *** CONSTANCIA ***            *** VALIDACIÓN ***
+    *Nombre
+    *Edad
+    *Salud
+    *Hambre
+    *Vejiga
+    *Higiene
+    *
+    
+
+
+
+
+  
